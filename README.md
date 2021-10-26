@@ -8,6 +8,9 @@ my first github repository
 * 원츄는 내 고유별명
 
 ## Todo
+
 -[ ]레포트 쓰기
+
 -[ ] 피피티 작성
+
 -[x] 3시간 내내 집으로 가기
