@@ -3,9 +3,9 @@
 my first github repository
 
 #iamwantyou
-서원유, 23세 
-https://www.instagram.com/iamwantyou/
-wantyou is my nickname
+-서원유, 23세 
+-https://www.instagram.com/iamwantyou/
+-wantyou is my nickname
 
 #Todo
 - 레포트 쓰기
